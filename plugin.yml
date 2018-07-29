@@ -1,0 +1,8 @@
+name: AllAPILoader
+main: OhhhAlex\AllAPILoader\Main
+version: 3.0
+api: [3.1.1]
+author: TheNewHEROBRINE - OhhhAlex Copy
+description: Makes the server load every plugin regardless of the API version
+load: STARTUP
+softdepend: ["DevTools", "FolderPluginLoader"]
